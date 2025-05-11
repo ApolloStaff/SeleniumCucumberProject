@@ -13,3 +13,8 @@ Feature: Feature to automate buying on the website
       | locked_out_user         | secret_sauce |
       | problem_user            | secret_sauce |
       | performance_glitch_user | secret_sauce |
+
+    # Ideal scenario
+    # The user is locked from accessing the site
+    # The last name field is bugged
+    # The website experiences slow performance
